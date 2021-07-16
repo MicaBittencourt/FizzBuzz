@@ -12,5 +12,6 @@ Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com
 
 - Criei um código java para resolver o desafio.
 - Primeiramente defini que a lista seria entre 1 e 100.
-- Depois fiz uma sequência usando um laço de repetição para definir as condições propostas pelo desafio.
-- Ao final, o código gera uma lista com todos os números, entre 1 e 100, com todas as exceções que foram pré definidas.
+- Depois utilizei um laço de repetição para executar a ação necessária em cada linha da lista.
+- Em cada linha era necessário verificar três tipos de situações e para que todas fossem executadas utilizei um if encadeado analisando as três situações e assim resolver o desafio.
+- No final, a aplicação gera uma lista mostrando resultado conforme a verificação.
